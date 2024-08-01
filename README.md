@@ -6,4 +6,4 @@ Meu nome é Kaio Henrique
 
 - Eu uso esse espaço para me organizar e compartilhar os meus projetos
 
-![cachorro](https://media1.tenor.com/m/aPgTU-Z9j1MAAAAd/funny-dogs-cute.gif)
+![cachorro](https://media1.tenor.com/m/BY-4cJ3NSrcAAAAd/sus-suspicious.gif)
