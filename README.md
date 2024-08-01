@@ -2,7 +2,7 @@
 
 Meu nome é Kaio Henrique
 
-- Eu estudo no [alura] (https://www.alura.com.br) 
+- Eu estudo no [alura](https://www.alura.com.br) 
 
 - Eu uso esse espaço para me organizar e compartilhar os meus projetos
 
